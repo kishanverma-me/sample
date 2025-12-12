@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 double bal=0;
 void checkBal(){
     printf("\nCurrent Bal : %lf",bal);
