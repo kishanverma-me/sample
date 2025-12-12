@@ -21,7 +21,7 @@ void withdraw(){
      bal-=m;
      printf("\nMoney Withdrawed successfully!!\n");
     }else{
-        printf("\nFuck you!!");
+        printf("\nInsufficient balance ");
     }
      
 
